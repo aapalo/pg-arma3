@@ -10,4 +10,5 @@ https://community.bistudio.com/wiki/squad.xml#ArmA_3
 	<remark></remark>
 </member>
 
-Lis‰‰ squad urliksi: https://github.com/aapalo/pg-arma3/blob/master/squad.xml
+Lis‰‰ squad urliksi: https://github.com/aapalo/pg-arma3/raw/master/squad.xml
+
