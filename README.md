@@ -1,4 +1,4 @@
-1. T‰yt‰ tietosi, tulevat servun pelaajalistaan julkisesti n‰kyville. Vain id ja nick pakollisia.
+T‰yt‰ tietosi, tulevat servun pelaajalistaan julkisesti n‰kyville. Vain id ja nick pakollisia.
 ID (ja nick) lˆytyy: K‰ynnist‰ Arma 3 -> Configure -> Profiles
 
 https://community.bistudio.com/wiki/squad.xml#ArmA_3
@@ -10,4 +10,4 @@ https://community.bistudio.com/wiki/squad.xml#ArmA_3
 	<remark></remark>
 </member>
 
-2. Lis‰‰ squad urliksi: http://fig4.kyla.fi/a3/pg/squad.xml
+Lis‰‰ squad urliksi: https://github.com/aapalo/pg-arma3/blob/master/squad.xml
