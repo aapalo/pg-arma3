@@ -1,0 +1,137 @@
+squad {
+	display: block;
+	background-color: #eeeeee;
+	margin: 40px;
+	padding: 11px;
+	border: dashed 2px #aeb399;
+	font-family: Verdana, sans-serif;
+	font-size: 11px;
+}
+
+squad>name {
+	display: block;
+	background-color: #aeb399;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 3px 6px;
+}
+
+squad>email {
+	display: block;
+	background-color: #e2e9c7;
+	padding: 3px 6px 0px 6px;
+	margin: 3px 0px 0px 0px;
+	border: 1px solid #aeb399;
+	border-bottom: none;
+}
+squad>email:before {
+	color: #333333;
+	content: "E-mail address: ";
+	font-weight: bold;
+}
+
+squad>web {
+	display: block;
+	background-color: #e2e9c7;
+	padding: 2px 6px 4px 6px;
+	margin: 0px 0px 3px 0px;
+	border: 1px solid #aeb399;
+	border-top: none;
+
+}
+
+squad>web:before {
+	color: #333333;
+	content: "Website: ";
+	font-weight: bold;
+}
+
+squad>picture {
+	background-image: url('fps2.jpg');
+	background-color: #e2e9c7;
+	background-repeat: no-repeat;
+	background-position: 6px 18px;
+	height: 146px;
+	display: block;
+	padding: 3px 6px 0px 6px;
+	border: 1px solid #aeb399;
+	border-bottom: none;
+}
+
+squad>picture:before {
+	color: #333333;
+	content: "Squad logo: ";
+	font-weight: bold;
+}
+
+squad>title {
+	display: block;
+	background-color: #e2e9c7;
+	border: 1px solid #aeb399;
+	border-top: none;
+	padding: 0px 6px 3px 6px;
+}
+
+squad>title:before {
+	font-weight: bold;
+	content: "Vehicle text: ";
+}
+
+
+
+
+
+
+squad>member {
+	padding: 3px 6px 4px 6px;
+	margin: 3px 0px 0px 0px;
+	display: block;
+	border: 1px solid #aeb399;
+	background-color: #e2e9c7;
+}
+
+squad>member>name {
+	display: block;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: underline;
+}
+
+squad>member>email {
+	display: block;
+	padding: 2px 0px 0px 0px;
+}
+
+squad>member>email:before {
+	color: #333333;
+	Content: "E-mail: ";
+}
+
+
+squad>member>icq {
+	display: none;
+	padding: 2px 0px 0px 0px;
+}
+
+squad>member>icq:before {
+	color: #333333;
+	Content: "ICQ uid: ";	
+}
+
+squad>member>remark {
+	display: block;
+	padding: 2px 0px 0px 0px;
+}
+
+squad>member>remark:before {
+	color: #333333;
+	Content: "Remark: ";	
+} {
+	display: block;
+	padding: 2px 0px 0px 0px;
+}
+
+squad>member>remark:before {
+	color: #333333;
+	Content: "Remark: ";	
+}
