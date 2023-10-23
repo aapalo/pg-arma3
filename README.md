@@ -1,7 +1,9 @@
-Täytä tietosi, tulevat servun pelaajalistaan julkisesti näkyville. Vain id ja nick pakollisia.
-ID (ja nick) löytyy: Käynnistä Arma 3 -> Configure -> Profiles
+Tï¿½ytï¿½ tietosi, tulevat servun pelaajalistaan julkisesti nï¿½kyville. Vain id ja nick pakollisia.
+ID (ja nick) lï¿½ytyy: Kï¿½ynnistï¿½ Arma 3 -> Configure -> Profiles
 
 https://community.bistudio.com/wiki/squad.xml#ArmA_3
+
+https://community.bistudio.com/wiki/squad.xml#How_to_use_it_as_a_team-member
 
 <member id="123456789123456" nick="oma_pelinick">
 	<name></name>
@@ -10,5 +12,4 @@ https://community.bistudio.com/wiki/squad.xml#ArmA_3
 	<remark></remark>
 </member>
 
-Lisää squad urliksi: https://github.com/aapalo/pg-arma3/raw/master/squad.xml
-
+Lisï¿½ï¿½ squad urliksi: https://github.com/aapalo/pg-arma3/raw/master/squad.xml
